@@ -1,11 +1,4 @@
 @font-face {
-    font-family: 'Poppins';
-    src: url('../fonts/Poppins-Medium-subset.woff2') format('woff2');
-    font-weight: 500;
-    font-style: bold;
-}
-
-@font-face {
     font-family: 'Big Shoulders Display';
     src: url('../fonts/BigShouldersDisplay-ExtraBold.subset.woff2') format('woff2');
     font-weight: 900;
